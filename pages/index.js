@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import InteractiveMap, { Marker } from "react-map-gl";
 const Token =
-    "pk.eyJ1Ijoic3A0cmtpbmciLCJhIjoiY2s3cXVnNmV5MDF2ODNla3RyNmZiaGl1eiJ9.IxCXZbzX1hOfffO2DCdqfw";
+    "pk.xxxxx.IxCXZbzX1hOfffO2DCdqfw";
 const App = () => {
     const [viewport, setViewport] = useState({
         latitude: -16.503729,
